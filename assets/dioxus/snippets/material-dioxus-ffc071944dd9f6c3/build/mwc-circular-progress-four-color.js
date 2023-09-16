@@ -1,4 +1,4 @@
-import{C as r,y as e,d as c,_ as i,f as a}from"./core.js";class t extends r{renderIndeterminateContainer(){return e`
+import{C as r,x as e,c,_ as i,d as a}from"./core.js";class t extends r{renderIndeterminateContainer(){return e`
       <div class="mdc-circular-progress__indeterminate-container">
         <div class="mdc-circular-progress__spinner-layer mdc-circular-progress__color-1">
           ${this.renderIndeterminateSpinnerLayer()}

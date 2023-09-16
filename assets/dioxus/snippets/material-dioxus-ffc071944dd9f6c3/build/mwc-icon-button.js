@@ -1,4 +1,4 @@
-import{_ as e,t,e as s,a as i,i as p,b as l,c as a,s as o,R as r,y as n,l as d,z as h,f as u}from"./core.js";class c extends o{constructor(){super(...arguments),this.disabled=!1,this.icon="",this.shouldRenderRipple=!1,this.rippleHandlers=new r((()=>(this.shouldRenderRipple=!0,this.ripple)))}renderRipple(){return this.shouldRenderRipple?n`
+import{_ as e,t,n as s,a as i,i as p,e as l,b as a,s as o,R as r,x as n,l as d,z as h,d as u}from"./core.js";class c extends o{constructor(){super(...arguments),this.disabled=!1,this.icon="",this.shouldRenderRipple=!1,this.rippleHandlers=new r((()=>(this.shouldRenderRipple=!0,this.ripple)))}renderRipple(){return this.shouldRenderRipple?n`
             <mwc-ripple
                 .disabled="${this.disabled}"
                 unbounded>
